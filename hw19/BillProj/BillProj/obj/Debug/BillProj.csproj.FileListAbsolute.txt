@@ -1,0 +1,7 @@
+D:\Tools\Programming\C#\itStep\hw19\BillProj\BillProj\bin\Debug\BillProj.exe.config
+D:\Tools\Programming\C#\itStep\hw19\BillProj\BillProj\bin\Debug\BillProj.exe
+D:\Tools\Programming\C#\itStep\hw19\BillProj\BillProj\bin\Debug\BillProj.pdb
+D:\Tools\Programming\C#\itStep\hw19\BillProj\BillProj\obj\Debug\BillProj.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\hw19\BillProj\BillProj\obj\Debug\BillProj.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw19\BillProj\BillProj\obj\Debug\BillProj.exe
+D:\Tools\Programming\C#\itStep\hw19\BillProj\BillProj\obj\Debug\BillProj.pdb

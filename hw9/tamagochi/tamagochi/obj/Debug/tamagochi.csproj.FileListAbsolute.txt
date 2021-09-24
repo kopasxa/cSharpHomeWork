@@ -1,0 +1,7 @@
+D:\Tools\Programming\C#\itStep\hw9\tamagochi\tamagochi\bin\Debug\tamagochi.exe.config
+D:\Tools\Programming\C#\itStep\hw9\tamagochi\tamagochi\bin\Debug\tamagochi.exe
+D:\Tools\Programming\C#\itStep\hw9\tamagochi\tamagochi\bin\Debug\tamagochi.pdb
+D:\Tools\Programming\C#\itStep\hw9\tamagochi\tamagochi\obj\Debug\tamagochi.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\hw9\tamagochi\tamagochi\obj\Debug\tamagochi.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw9\tamagochi\tamagochi\obj\Debug\tamagochi.exe
+D:\Tools\Programming\C#\itStep\hw9\tamagochi\tamagochi\obj\Debug\tamagochi.pdb

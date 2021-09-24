@@ -1,0 +1,7 @@
+D:\Tools\Programming\C#\itStep\hw1\exercise3\bin\Debug\exercise3.exe.config
+D:\Tools\Programming\C#\itStep\hw1\exercise3\bin\Debug\exercise3.exe
+D:\Tools\Programming\C#\itStep\hw1\exercise3\bin\Debug\exercise3.pdb
+D:\Tools\Programming\C#\itStep\hw1\exercise3\obj\Debug\exercise3.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw1\exercise3\obj\Debug\exercise3.exe
+D:\Tools\Programming\C#\itStep\hw1\exercise3\obj\Debug\exercise3.pdb
+D:\Tools\Programming\C#\itStep\hw1\exercise3\obj\Debug\exercise3.csprojAssemblyReference.cache

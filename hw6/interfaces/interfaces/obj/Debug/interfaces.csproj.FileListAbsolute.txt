@@ -1,0 +1,7 @@
+D:\Tools\Programming\C#\itStep\hw6\interfaces\interfaces\obj\Debug\interfaces.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\hw6\interfaces\interfaces\obj\Debug\interfaces.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw6\interfaces\interfaces\bin\Debug\interfaces.exe.config
+D:\Tools\Programming\C#\itStep\hw6\interfaces\interfaces\bin\Debug\interfaces.exe
+D:\Tools\Programming\C#\itStep\hw6\interfaces\interfaces\bin\Debug\interfaces.pdb
+D:\Tools\Programming\C#\itStep\hw6\interfaces\interfaces\obj\Debug\interfaces.exe
+D:\Tools\Programming\C#\itStep\hw6\interfaces\interfaces\obj\Debug\interfaces.pdb

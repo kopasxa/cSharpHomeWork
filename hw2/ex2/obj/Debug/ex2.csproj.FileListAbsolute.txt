@@ -1,0 +1,6 @@
+D:\Tools\Programming\C#\itStep\ex1\ex2\bin\Debug\ex2.exe.config
+D:\Tools\Programming\C#\itStep\ex1\ex2\bin\Debug\ex2.exe
+D:\Tools\Programming\C#\itStep\ex1\ex2\bin\Debug\ex2.pdb
+D:\Tools\Programming\C#\itStep\ex1\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\ex1\ex2\obj\Debug\ex2.exe
+D:\Tools\Programming\C#\itStep\ex1\ex2\obj\Debug\ex2.pdb

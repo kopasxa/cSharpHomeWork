@@ -1,0 +1,7 @@
+D:\Tools\Programming\C#\itStep\hw1\exercise1\bin\Debug\exercise1.exe.config
+D:\Tools\Programming\C#\itStep\hw1\exercise1\bin\Debug\exercise1.exe
+D:\Tools\Programming\C#\itStep\hw1\exercise1\bin\Debug\exercise1.pdb
+D:\Tools\Programming\C#\itStep\hw1\exercise1\obj\Debug\exercise1.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\hw1\exercise1\obj\Debug\exercise1.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw1\exercise1\obj\Debug\exercise1.exe
+D:\Tools\Programming\C#\itStep\hw1\exercise1\obj\Debug\exercise1.pdb

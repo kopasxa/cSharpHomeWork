@@ -1,0 +1,7 @@
+D:\Tools\Programming\C#\itStep\hw3\hw3\bin\Debug\hw3.exe.config
+D:\Tools\Programming\C#\itStep\hw3\hw3\bin\Debug\hw3.exe
+D:\Tools\Programming\C#\itStep\hw3\hw3\bin\Debug\hw3.pdb
+D:\Tools\Programming\C#\itStep\hw3\hw3\obj\Debug\hw3.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\hw3\hw3\obj\Debug\hw3.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw3\hw3\obj\Debug\hw3.exe
+D:\Tools\Programming\C#\itStep\hw3\hw3\obj\Debug\hw3.pdb

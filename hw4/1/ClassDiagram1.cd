@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Figures.GeoFigure" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQCAAAIAAAAADAAAAAAAAAACAAAgAQAEAAA=</HashCode>
+      <FileName>GeoFigure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figures.Triangle" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAQAEAAA=</HashCode>
+      <FileName>Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figures.Square" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEAAA=</HashCode>
+      <FileName>Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figures.Rectangle" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAQAEAAA=</HashCode>
+      <FileName>Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figures.Ellipse" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAQAAAAAAAAAAAAAAACAAAAAAAAAAAQAEAAA=</HashCode>
+      <FileName>Ellipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figures.Trapezoid" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAQAEAAA=</HashCode>
+      <FileName>Trapezoid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figures.Parallelogram" Collapsed="true">
+    <Position X="2" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAACAAAAQAEAAA=</HashCode>
+      <FileName>Parallelogram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figures.SosFigure" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAIAAAAAAAAAAAAAAAACAQAAAAA=</HashCode>
+      <FileName>SosFigure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figures.Circle" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEAAA=</HashCode>
+      <FileName>Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figures.Romb" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAEACAAAAAAAAAAAAAAAAAAAAAQAEAAA=</HashCode>
+      <FileName>Romb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figures.Program" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

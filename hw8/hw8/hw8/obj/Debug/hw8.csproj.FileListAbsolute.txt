@@ -1,0 +1,7 @@
+D:\Tools\Programming\C#\itStep\hw8\hw8\hw8\bin\Debug\hw8.exe.config
+D:\Tools\Programming\C#\itStep\hw8\hw8\hw8\bin\Debug\hw8.exe
+D:\Tools\Programming\C#\itStep\hw8\hw8\hw8\bin\Debug\hw8.pdb
+D:\Tools\Programming\C#\itStep\hw8\hw8\hw8\obj\Debug\hw8.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\hw8\hw8\hw8\obj\Debug\hw8.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw8\hw8\hw8\obj\Debug\hw8.exe
+D:\Tools\Programming\C#\itStep\hw8\hw8\hw8\obj\Debug\hw8.pdb

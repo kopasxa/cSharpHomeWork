@@ -1,0 +1,7 @@
+D:\Tools\Programming\C#\itStep\hw7\money\money\bin\Debug\money.exe.config
+D:\Tools\Programming\C#\itStep\hw7\money\money\bin\Debug\money.exe
+D:\Tools\Programming\C#\itStep\hw7\money\money\bin\Debug\money.pdb
+D:\Tools\Programming\C#\itStep\hw7\money\money\obj\Debug\money.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\hw7\money\money\obj\Debug\money.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw7\money\money\obj\Debug\money.exe
+D:\Tools\Programming\C#\itStep\hw7\money\money\obj\Debug\money.pdb

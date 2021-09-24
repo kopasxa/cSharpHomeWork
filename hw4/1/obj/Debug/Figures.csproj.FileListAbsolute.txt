@@ -1,0 +1,21 @@
+D:\IT STEP\C#\#DZ\Figures\Figures\bin\Debug\Figures.exe.config
+D:\IT STEP\C#\#DZ\Figures\Figures\bin\Debug\Figures.exe
+D:\IT STEP\C#\#DZ\Figures\Figures\bin\Debug\Figures.pdb
+D:\IT STEP\C#\#DZ\Figures\Figures\obj\Debug\Figures.csprojAssemblyReference.cache
+D:\IT STEP\C#\#DZ\Figures\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\IT STEP\C#\#DZ\Figures\Figures\obj\Debug\Figures.exe
+D:\IT STEP\C#\#DZ\Figures\Figures\obj\Debug\Figures.pdb
+D:\Tools\Programming\C#\itStep\hw4\bin\Debug\Figures.exe.config
+D:\Tools\Programming\C#\itStep\hw4\bin\Debug\Figures.exe
+D:\Tools\Programming\C#\itStep\hw4\bin\Debug\Figures.pdb
+D:\Tools\Programming\C#\itStep\hw4\obj\Debug\Figures.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\hw4\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw4\obj\Debug\Figures.exe
+D:\Tools\Programming\C#\itStep\hw4\obj\Debug\Figures.pdb
+D:\Tools\Programming\C#\itStep\hw4\1\bin\Debug\Figures.exe.config
+D:\Tools\Programming\C#\itStep\hw4\1\bin\Debug\Figures.exe
+D:\Tools\Programming\C#\itStep\hw4\1\bin\Debug\Figures.pdb
+D:\Tools\Programming\C#\itStep\hw4\1\obj\Debug\Figures.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\hw4\1\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw4\1\obj\Debug\Figures.exe
+D:\Tools\Programming\C#\itStep\hw4\1\obj\Debug\Figures.pdb

@@ -1,0 +1,6 @@
+D:\Tools\Programming\C#\itStep\hw1\exercise4\bin\Debug\exercise4.exe.config
+D:\Tools\Programming\C#\itStep\hw1\exercise4\bin\Debug\exercise4.exe
+D:\Tools\Programming\C#\itStep\hw1\exercise4\bin\Debug\exercise4.pdb
+D:\Tools\Programming\C#\itStep\hw1\exercise4\obj\Debug\exercise4.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw1\exercise4\obj\Debug\exercise4.exe
+D:\Tools\Programming\C#\itStep\hw1\exercise4\obj\Debug\exercise4.pdb

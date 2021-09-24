@@ -1,0 +1,10 @@
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v3\bin\Debug\hw2v3.exe.config
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v3\bin\Debug\hw2v3.exe
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v3\bin\Debug\hw2v3.pdb
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v3\obj\Debug\hw2v3.Form1.resources
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v3\obj\Debug\hw2v3.Properties.Resources.resources
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v3\obj\Debug\hw2v3.csproj.GenerateResource.cache
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v3\obj\Debug\hw2v3.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v3\obj\Debug\hw2v3.exe
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v3\obj\Debug\hw2v3.pdb
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v3\obj\Debug\hw2v3.csprojAssemblyReference.cache

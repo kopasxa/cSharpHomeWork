@@ -1,0 +1,6 @@
+D:\Tools\Programming\C#\itStep\hw1\exercise5\bin\Debug\exercise5.exe.config
+D:\Tools\Programming\C#\itStep\hw1\exercise5\bin\Debug\exercise5.exe
+D:\Tools\Programming\C#\itStep\hw1\exercise5\bin\Debug\exercise5.pdb
+D:\Tools\Programming\C#\itStep\hw1\exercise5\obj\Debug\exercise5.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw1\exercise5\obj\Debug\exercise5.exe
+D:\Tools\Programming\C#\itStep\hw1\exercise5\obj\Debug\exercise5.pdb

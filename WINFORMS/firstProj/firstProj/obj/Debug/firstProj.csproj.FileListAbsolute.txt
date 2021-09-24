@@ -1,0 +1,10 @@
+D:\Tools\Programming\C#\itStep\WINFORMS\firstProj\firstProj\bin\Debug\firstProj.exe.config
+D:\Tools\Programming\C#\itStep\WINFORMS\firstProj\firstProj\bin\Debug\firstProj.exe
+D:\Tools\Programming\C#\itStep\WINFORMS\firstProj\firstProj\bin\Debug\firstProj.pdb
+D:\Tools\Programming\C#\itStep\WINFORMS\firstProj\firstProj\obj\Debug\firstProj.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\WINFORMS\firstProj\firstProj\obj\Debug\firstProj.Properties.Resources.resources
+D:\Tools\Programming\C#\itStep\WINFORMS\firstProj\firstProj\obj\Debug\firstProj.csproj.GenerateResource.cache
+D:\Tools\Programming\C#\itStep\WINFORMS\firstProj\firstProj\obj\Debug\firstProj.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\WINFORMS\firstProj\firstProj\obj\Debug\firstProj.exe
+D:\Tools\Programming\C#\itStep\WINFORMS\firstProj\firstProj\obj\Debug\firstProj.pdb
+D:\Tools\Programming\C#\itStep\WINFORMS\firstProj\firstProj\obj\Debug\firstProj.Form1.resources

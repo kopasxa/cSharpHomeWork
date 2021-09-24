@@ -1,0 +1,7 @@
+D:\Tools\Programming\C#\itStep\hw5\calc\calc\bin\Debug\calc.exe.config
+D:\Tools\Programming\C#\itStep\hw5\calc\calc\bin\Debug\calc.exe
+D:\Tools\Programming\C#\itStep\hw5\calc\calc\bin\Debug\calc.pdb
+D:\Tools\Programming\C#\itStep\hw5\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\hw5\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\hw5\calc\calc\obj\Debug\calc.exe
+D:\Tools\Programming\C#\itStep\hw5\calc\calc\obj\Debug\calc.pdb

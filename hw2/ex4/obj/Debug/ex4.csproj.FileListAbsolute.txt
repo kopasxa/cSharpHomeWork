@@ -1,0 +1,7 @@
+D:\Tools\Programming\C#\itStep\ex1\ex4\bin\Debug\ex4.exe.config
+D:\Tools\Programming\C#\itStep\ex1\ex4\bin\Debug\ex4.exe
+D:\Tools\Programming\C#\itStep\ex1\ex4\bin\Debug\ex4.pdb
+D:\Tools\Programming\C#\itStep\ex1\ex4\obj\Debug\ex4.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\ex1\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\ex1\ex4\obj\Debug\ex4.exe
+D:\Tools\Programming\C#\itStep\ex1\ex4\obj\Debug\ex4.pdb

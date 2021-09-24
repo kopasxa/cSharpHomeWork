@@ -1,0 +1,10 @@
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v2\obj\Debug\hw2v2.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v2\obj\Debug\hw2v2.Properties.Resources.resources
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v2\obj\Debug\hw2v2.csproj.GenerateResource.cache
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v2\obj\Debug\hw2v2.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v2\bin\Debug\hw2v2.exe.config
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v2\bin\Debug\hw2v2.exe
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v2\bin\Debug\hw2v2.pdb
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v2\obj\Debug\hw2v2.exe
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v2\obj\Debug\hw2v2.pdb
+D:\Tools\Programming\C#\itStep\WINFORMS\hw2\hw2v2\obj\Debug\hw2v2.game.resources
