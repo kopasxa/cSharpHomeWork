@@ -1,0 +1,15 @@
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\bin\Debug\DZ1zad1.exe.config
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\bin\Debug\DZ1zad1.exe
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\bin\Debug\DZ1zad1.pdb
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\obj\Debug\hw1.csprojAssemblyReference.cache
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\obj\Debug\MainWindow.g.cs
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\obj\Debug\App.g.cs
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\obj\Debug\DZ1zad1_MarkupCompile.cache
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\obj\Debug\DZ1zad1_MarkupCompile.lref
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\obj\Debug\MainWindow.baml
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\obj\Debug\DZ1zad1.g.resources
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\obj\Debug\DZ1zad1.Properties.Resources.resources
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\obj\Debug\hw1.csproj.GenerateResource.cache
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\obj\Debug\hw1.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\obj\Debug\DZ1zad1.exe
+D:\Tools\Programming\C#\itStep\cSharpHomeWork\WPF\WPF_Dz1\hw1\hw1\obj\Debug\DZ1zad1.pdb
